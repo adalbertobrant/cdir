@@ -48,17 +48,21 @@ Para limpar os arquivos compilados, execute:
 ```sh
 make clean
 ```
-🤔 Motivação
+## 🤔 Motivação
+
 O cdir foi desenvolvido em C++ devido ao meu PC ser mais antigo e ter limitações de hardware. A escolha do C++ permitiu um controle mais detalhado sobre o desempenho e a eficiência do programa.
 
 A inspiração para este projeto veio do projeto do Programador Kris Feldmann que você pode visitar (aqui)(https://github.com/kfeldmann/cidrmerge)
 
-🤝 Contribuições
+O programa pode ser utilizado como um assistente para adicionar regras em firewall e automatizar parte do processo, usanso shell scripts no Linux.
+
+## 🤝 Contribuições
+
 Contribuições são muito bem-vindas! Se você tiver sugestões, correções ou melhorias, por favor, abra um issue ou envie um pull request. Sua ajuda é muito bem vinda!
 
 Obrigado por usar o cdir! 🚀
 
-📜 Licença 
+## 📜 Licença 
 
 Para utilização favor ler o arquivo license.txt e concordar com os termos de utilização.
 Programa orginalmente desenvolvido por Kris Feldmann [cdirmerge](https://github.com/kfeldmann/cidrmerge)
