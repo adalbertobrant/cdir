@@ -26,7 +26,7 @@ Após a compilação, você pode executar o programa passando uma lista de IPs  
 
 ### Exemplo de Uso
 
-1. Crie um arquivo `listaIps.txt` com a lista de IPs em formato CIDR, um por linha:
+1. Crie um arquivo `listaIps.txt` com a lista de IPs, um por linha:
     ```
     192.168.0.1
     192.168.1.4
